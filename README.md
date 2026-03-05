@@ -1,6 +1,6 @@
 # AO Studio
 
-este es un proyecto básico en el cual se utiliza React para unn e-commerce. 
+Este es un proyecto básico en el cual se utiliza React para unn e-commerce. 
 La aplicación permite ver productos musicales y realizar compras en línea. 
 los productos y las ordenes de compra se almacenaron en Firebase.
 
