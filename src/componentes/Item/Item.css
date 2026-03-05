@@ -1,0 +1,27 @@
+.cardProduct{
+    background-color: rgb(217, 196, 169);
+    border-radius: 10px;
+    width: 20rem;
+    margin: 1rem;
+    padding: 1rem;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.cardProduct img{
+    width: 150px;
+    object-fit: contain;
+    height: 15rem;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+.cardProduct button{
+    background-color: rgb(32, 23, 7);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+}
